@@ -54,7 +54,7 @@
 }
 
 /* Fix spacing of repo header button icons #5620 */
-.pagehead-actions :is(.btn, summary) .octicon {
+.pagehead-actions :is(.btn, summary) .octicon:not(.octicon-triangle-down) {
 	margin-right: 4px !important;
 }
 
