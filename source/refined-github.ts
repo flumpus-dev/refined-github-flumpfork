@@ -21,7 +21,6 @@ import './features/sticky-file-header.css';
 import './features/readable-title-change-events.css';
 import './features/clean-checks-list.css';
 import './features/sticky-csv-header.css';
-import './features/unhide-reactions-on-mobile.css';
 
 // DO NOT add CSS files here if they are part of a JavaScript feature.
 // Import the `.css` file from the `.tsx` instead.
@@ -216,3 +215,5 @@ import './features/scrollable-areas';
 import './features/clean-repo-header';
 import './features/emphasize-draft-pr-label';
 import './features/file-age-color';
+import './features/netiquette';
+import './features/rgh-netiquette';
