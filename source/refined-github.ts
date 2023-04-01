@@ -102,7 +102,6 @@ import './features/collapsible-content-button';
 import './features/resolve-conflicts';
 import './features/enable-file-links-in-compare-view'; // Must be before more-file-links
 import './features/more-file-links';
-import './features/tags-dropdown';
 import './features/pr-filters';
 import './features/quick-file-edit';
 import './features/update-pr-from-base-branch';
@@ -188,7 +187,6 @@ import './features/conversation-activity-filter';
 import './features/select-all-notifications-shortcut';
 import './features/no-duplicate-list-update-time';
 import './features/view-last-pr-deployment';
-import './features/clean-header-search-field';
 import './features/avoid-accidental-submissions';
 import './features/quick-review-comment-deletion';
 import './features/no-unnecessary-split-diff-view';
